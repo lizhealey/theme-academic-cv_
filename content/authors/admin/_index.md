@@ -7,7 +7,7 @@ name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: E
-last_name: Chien
+last_name: H
 
 # Status emoji
 status:
@@ -39,12 +39,7 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
